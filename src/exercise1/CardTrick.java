@@ -37,7 +37,14 @@ public class CardTrick {
 	    //
 	    //
 	    
-	    
+	  
+            // Additional addition after fetch from branch WanTae_Kim_Ex1
+            // add something
+            //
+            //
+            // wantae kim at 09:21AM
+            //
+            
 	    
         // insert code to ask the user for Card value and suit, create their card
         // and search the hand here. 
