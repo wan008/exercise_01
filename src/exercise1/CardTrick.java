@@ -28,6 +28,17 @@ public class CardTrick {
         }
 
         // Added comment for 
+	    
+	    
+	    
+	    // Edit something in GitHub
+	    //  wantae kim at 09:15AM
+	    //  System.out.println("this is test");
+	    //
+	    //
+	    
+	    
+	    
         // insert code to ask the user for Card value and suit, create their card
         // and search the hand here. 
         // Hint: You can ask for values 1 to 10, and then
