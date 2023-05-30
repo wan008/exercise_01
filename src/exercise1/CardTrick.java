@@ -27,6 +27,7 @@ public class CardTrick {
             //       Don't worry about duplicates at this point
         }
 
+        //System.out.println("I'm done.");
         // Added comment for 
 	    
 	    
@@ -65,6 +66,9 @@ public class CardTrick {
      */
     private static void printInfo() {
     
+        
+        System.out.println("I'm done."); // added wantae kim at 09:39AM
+        
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
